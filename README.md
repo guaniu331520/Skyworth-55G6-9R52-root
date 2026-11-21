@@ -1,4 +1,4 @@
-# RTD299x TV Root & Rescue Kit
+# 创维55G6(9R52)RTD299x TV Root & Rescue Kit
 
 一份针对 **Realtek RTD299x / Android 5.1 智能电视**的免拆机 root、持久化与全盘救砖备份的完整实录与工具集。
 
