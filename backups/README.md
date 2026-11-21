@@ -6,7 +6,7 @@
 
 ## 实际存放位置
 
-分片位于 **[`backups20/`](../backups20/)** 目录（本目录 `backups/` 仅保留早期 90MiB 方案的说明与清单，分片已迁到 `backups20/`）。
+分片位于 **[`backups20/`](../backups20/)** 目录（本目录 `backups/` 仅保留说明文档，早期 90MiB 方案的清单已清理，所有分片均在 `backups20/`）。
 
 采用 20 MiB 分片（GitHub Contents API 上传稳定），共 **204 个分片**：
 
